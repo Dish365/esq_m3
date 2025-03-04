@@ -1,0 +1,9 @@
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\debug\deps\libfutures_channel-a8a77d77b5c18590.rmeta: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\debug\deps\futures_channel-a8a77d77b5c18590.d: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lib.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs:

@@ -1,0 +1,9 @@
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\debug\deps\futures_macro-26fc4cc6b677f885.dll: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\executor.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\join.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\select.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\stream_select.rs
+
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\debug\deps\futures_macro-26fc4cc6b677f885.d: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\executor.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\join.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\select.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\stream_select.rs
+
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\lib.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\executor.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\join.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\select.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-macro-0.3.31\src\stream_select.rs:

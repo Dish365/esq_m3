@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\debug\deps\libarrayvec-edabd2cb18114d9b.rmeta: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\debug\deps\arrayvec-edabd2cb18114d9b.d: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs
+
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\lib.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec_impl.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\arrayvec.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\array_string.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\char.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\errors.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrayvec-0.7.6\src\utils.rs:

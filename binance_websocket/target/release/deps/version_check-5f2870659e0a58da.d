@@ -1,0 +1,10 @@
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\release\deps\libversion_check-5f2870659e0a58da.rmeta: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\release\deps\libversion_check-5f2870659e0a58da.rlib: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Windows\Desktop\Dev_Projects\esq_m3\binance_websocket\target\release\deps\version_check-5f2870659e0a58da.d: C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\lib.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs
+
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\lib.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\version.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\channel.rs:
+C:\Users\Windows\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.5\src\date.rs:
